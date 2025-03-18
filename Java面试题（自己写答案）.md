@@ -140,7 +140,7 @@
 
 ##### 	<font color="red">16、Java集合的体系是什么样的？</font>
 
-​		![image-20221010160141401](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221010160141401.png)
+​		![image-20221010160141401](https://github.com/jiang-mingbiao/java-interview/blob/main/img/abnormal_system.png)
 
 ##### 	<font color="red">17、Set和List分别有哪些特点？Set去重的原理？</font>
 
